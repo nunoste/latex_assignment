@@ -1,1 +1,1 @@
-You will need to download each of these files so that you can upload them into the tutorial. 
+You will need to download each of these files so that you can upload them into the tutorial. The files here have been tested to work with the Overleaf website, but you will first need an Overleaf account to compile your first assignment. The subscription is free for what we will be doing. 
